@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\bin\Debug\netcoreapp3.1\Aula20Exercício3.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\bin\Debug\netcoreapp3.1\Aula20Exercício3.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\bin\Debug\netcoreapp3.1\Aula20Exercício3.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\bin\Debug\netcoreapp3.1\Aula20Exercício3.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\bin\Debug\netcoreapp3.1\Aula20Exercício3.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\bin\Debug\netcoreapp3.1\Aula20Exercício3.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula20Exercício3\obj\Debug\netcoreapp3.1\Aula20Exercício3.genruntimeconfig.cache
