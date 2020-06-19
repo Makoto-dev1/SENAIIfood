@@ -3,24 +3,23 @@ namespace Aula20Exercício3
 {
     public class Pedido
     {
-        public string Itens { get; set; }
-
-        public string Cliente { get; set; }
-
-        public string Restaurante { get; set; }
-
-        public string FormaDePGTO { get; set; }
-
+        public string[] Itens { get; set; }
+        public Cliente Cliente { get; set; }
+        public Restaurante Restaurante { get; set; }
+        public string FormaPGTO { get; set; }
         public bool PedidoPago { get; set; }
-
-        public Pedido(string _itens, string _cliente){
-                this.Itens = _itens;
-                this.Cliente = _cliente;   
-        }
+        public DateTime DataEntrega { get; set; }
 
         public string EntregarPedido(){
-            return $"Pedido entregue por {Restaurante}, para o cliente {Cliente}.";
-        }
+            
+            DataEntrega = DateTime.Now;
 
+            string retorno = "Pedido entregue! \n";
+            retorno += Restaurante.MostrarDados();
+            retorno += Cliente.MostrarDados();
+            retorno += DataEntrega;
+
+            return retorno;
     }
+}
 }

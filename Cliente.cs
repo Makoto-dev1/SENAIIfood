@@ -12,7 +12,7 @@ namespace Aula20Exercício3
         }
 
         public string MostrarDados(){
-            return $"Cliente: {Nome}, Endereço atual: {EnderecoAtual}";
+            return $"Cliente: {Nome}, Endereço atual: {EnderecoAtual}\n";
         }
     }
 }

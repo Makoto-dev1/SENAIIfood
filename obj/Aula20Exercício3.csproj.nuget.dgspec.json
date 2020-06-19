@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Users\\Makoto-dev\\Desktop\\Senai\\Aula20Exercício3\\Aula20Exercício3.csproj": {}
+    "I:\\Users\\Makoto-dev\\Desktop\\Senai\\SENAIIfood\\Aula20Exercício3.csproj": {}
   },
   "projects": {
-    "I:\\Users\\Makoto-dev\\Desktop\\Senai\\Aula20Exercício3\\Aula20Exercício3.csproj": {
+    "I:\\Users\\Makoto-dev\\Desktop\\Senai\\SENAIIfood\\Aula20Exercício3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Users\\Makoto-dev\\Desktop\\Senai\\Aula20Exercício3\\Aula20Exercício3.csproj",
+        "projectUniqueName": "I:\\Users\\Makoto-dev\\Desktop\\Senai\\SENAIIfood\\Aula20Exercício3.csproj",
         "projectName": "Aula20Exercício3",
-        "projectPath": "I:\\Users\\Makoto-dev\\Desktop\\Senai\\Aula20Exercício3\\Aula20Exercício3.csproj",
+        "projectPath": "I:\\Users\\Makoto-dev\\Desktop\\Senai\\SENAIIfood\\Aula20Exercício3.csproj",
         "packagesPath": "I:\\Users\\Makoto-dev\\.nuget\\packages\\",
-        "outputPath": "I:\\Users\\Makoto-dev\\Desktop\\Senai\\Aula20Exercício3\\obj\\",
+        "outputPath": "I:\\Users\\Makoto-dev\\Desktop\\Senai\\SENAIIfood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "I:\\Users\\Makoto-dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

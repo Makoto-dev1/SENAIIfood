@@ -11,7 +11,7 @@ namespace Aula20Exercício3
                 this.Endereco = _endereco;   
         }
         public string MostrarDados(){
-            return $"Restaurante: {Nome}, Endereço: {Endereco} ";
+            return $"Restaurante: {Nome} Endereço: {Endereco}\n";
         }
     }
 }
